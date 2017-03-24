@@ -1,0 +1,213 @@
+[00:05:10] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[00:05:11] [main/INFO] [FML/]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
+[00:05:11] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
+[00:05:11] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.11.2-13.20.0.2228-universal.jar
+[00:05:11] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\iis express\PHP\v5.4;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Users\Kevin Zhan\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Dr. Memory\bin\;C:\Program Files (x86)\Microsoft VS Code\bin;.
+[00:05:11] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[00:05:11] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[00:05:11] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[00:05:11] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[00:05:11] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[00:05:11] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[00:05:11] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[00:05:11] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\.
+[00:05:11] [main/INFO] [FML/]: Failed to find the specified repository root C:/Users/Kevin Zhan/Documents/newFrenchVanilla/libraries
+[00:05:11] [main/DEBUG] [FML/]: Discovering coremods
+[00:05:11] [main/DEBUG] [FML/]: Examining for coremod candidacy Dynmap-2.4-forge-1.11.2.jar
+[00:05:11] [main/DEBUG] [FML/]: Not found coremod data in Dynmap-2.4-forge-1.11.2.jar
+[00:05:11] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:05:11] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:05:11] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:05:11] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:05:11] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:05:11] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[00:05:11] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[00:05:11] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:05:11] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:05:11] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:05:11] [main/DEBUG] [FML/]: Injection complete
+[00:05:11] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[00:05:11] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[00:05:12] [main/DEBUG] [FML/]: Read 948 binary patches
+[00:05:12] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.11.2.lzma with 33539 records
+[00:05:12] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:05:12] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[00:05:12] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:05:12] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[00:05:12] [main/DEBUG] [FML/]: Injection complete
+[00:05:12] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[00:05:12] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[00:05:12] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[00:05:12] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:05:12] [main/DEBUG] [FML/]: Loaded 190 rules from AccessTransformer config file forge_at.cfg
+[00:05:12] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\mods\Dynmap-2.4-forge-1.11.2.jar!META-INF/dynmap_at.cfg
+
+[00:05:12] [main/DEBUG] [FML/]: Validating minecraft
+[00:05:13] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[00:05:13] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:05:13] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:05:13] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:05:20] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[00:05:20] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[00:05:21] [Server thread/INFO] [FML/]: MinecraftForge v13.20.0.2228 Initialized
+[00:05:21] [Server thread/INFO] [FML/]: Replaced 232 ore recipes
+[00:05:21] [Server thread/DEBUG] [FML/]: File C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\config\injectedDependencies.json not found. No dependencies injected
+[00:05:21] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[00:05:21] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[00:05:21] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\forge-1.11.2-13.20.0.2228-universal.jar, loading
+[00:05:21] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[00:05:22] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:05:22] [Server thread/INFO] [FML/]: Searching C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\mods for mods
+[00:05:22] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Dynmap-2.4-forge-1.11.2.jar
+[00:05:22] [Server thread/DEBUG] [FML/]: Ignoring unknown file mod_list.json in mods directory
+[00:05:22] [Server thread/DEBUG] [FML/]: Examining file forge-1.11.2-13.20.0.2228-universal.jar for potential mods
+[00:05:22] [Server thread/DEBUG] [FML/]: The mod container forge-1.11.2-13.20.0.2228-universal.jar appears to be missing an mcmod.info file
+[00:05:22] [Server thread/DEBUG] [FML/]: Examining file Dynmap-2.4-forge-1.11.2.jar for potential mods
+[00:05:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Dynmap-2.4-forge-1.11.2.jar
+[00:05:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.dynmap.forge.DynmapMod) - loading
+[00:05:22] [Server thread/TRACE] [dynmap/]: Parsed dependency info : [] [] []
+[00:05:23] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[00:05:23] [Server thread/TRACE] [FML/]: Received a system property request ''
+[00:05:23] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[00:05:23] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[00:05:23] [Server thread/DEBUG] [dynmap/]: Enabling mod dynmap
+[00:05:23] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[00:05:23] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[00:05:23] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[00:05:23] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[00:05:23] [Server thread/DEBUG] [FML/]: Mod sorting data
+[00:05:23] [Server thread/DEBUG] [FML/]: 	dynmap(Dynmap:2.4-3): Dynmap-2.4-forge-1.11.2.jar ()
+[00:05:23] [Server thread/DEBUG] [FML/]: Loading @Config anotation data
+[00:05:23] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[00:05:23] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[00:05:23] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.003s
+[00:05:23] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[00:05:23] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[00:05:23] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.004s
+[00:05:23] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[00:05:23] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[00:05:23] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[00:05:23] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[00:05:23] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dynmap] at CLIENT
+[00:05:23] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dynmap] at SERVER
+[00:05:24] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.648s
+[00:05:24] [Server thread/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
+[00:05:24] [Server thread/DEBUG] [forge/forge]: Preloading CrashReport Classes
+[00:05:24] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[00:05:24] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[00:05:24] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$3
+[00:05:24] [Server thread/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
+[00:05:24] [Server thread/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
+[00:05:24] [Server thread/TRACE] [FML/forge]: The mod forge accepts its own version (13.20.0.2228)
+[00:05:24] [Server thread/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
+[00:05:24] [Server thread/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.017s
+[00:05:24] [Server thread/TRACE] [dynmap/dynmap]: Sending event FMLConstructionEvent to mod dynmap
+[00:05:24] [Server thread/INFO] [Dynmap/dynmap]: [Dynmap] Mod Support API available
+[00:05:24] [Server thread/TRACE] [FML/dynmap]: Mod dynmap is using network checker : Invoking method netCheckHandler
+[00:05:24] [Server thread/TRACE] [FML/dynmap]: Testing mod dynmap to verify it accepts its own version in a remote connection
+[00:05:24] [Server thread/TRACE] [FML/dynmap]: The mod dynmap accepts its own version (2.4-3)
+[00:05:24] [Server thread/DEBUG] [FML/dynmap]: Attempting to inject @SidedProxy classes into dynmap
+[00:05:24] [Server thread/DEBUG] [FML/dynmap]: Attempting to inject @EventBusSubscriber classes into the eventbus for dynmap
+[00:05:24] [Server thread/DEBUG] [FML/dynmap]: Attempting to inject @Config classes into dynmap for type INSTANCE
+[00:05:24] [Server thread/TRACE] [dynmap/dynmap]: Sent event FMLConstructionEvent to mod dynmap
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Dynmap took 0.094s
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.767s
+[00:05:24] [Server thread/DEBUG] [FML/]: Mod signature data
+[00:05:24] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[00:05:24] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.11.2-13.20.0.2228-universal.jar
+[00:05:24] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	13.20.0.2228)	forge-1.11.2-13.20.0.2228-universal.jar
+[00:05:24] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[00:05:24] [Server thread/DEBUG] [FML/]: 		minecraft	(Minecraft	1.11.2)	minecraft.jar
+[00:05:24] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[00:05:24] [Server thread/DEBUG] [FML/]: 		dynmap	(Dynmap	2.4-3)	Dynmap-2.4-forge-1.11.2.jar
+[00:05:24] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[00:05:24] [Server thread/INFO] [FML/]: Found 444 ObjectHolder annotations
+[00:05:24] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[00:05:24] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[00:05:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:05:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:05:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:05:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:05:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:05:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:05:24] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[00:05:24] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.001s
+[00:05:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[00:05:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.002s
+[00:05:24] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[00:05:24] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.002s
+[00:05:24] [Server thread/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
+[00:05:24] [Server thread/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
+[00:05:24] [Server thread/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.196s
+[00:05:24] [Server thread/TRACE] [dynmap/dynmap]: Sending event FMLPreInitializationEvent to mod dynmap
+[00:05:24] [Server thread/TRACE] [dynmap/dynmap]: Sent event FMLPreInitializationEvent to mod dynmap
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Dynmap took 0.003s
+[00:05:24] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:05:24] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.204s
+[00:05:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:05:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:05:24] [Server thread/INFO] [FML/]: Injecting itemstacks
+[00:05:24] [Server thread/INFO] [FML/]: Itemstack injection complete
+[00:05:25] [Forge Version Check/DEBUG] [ForgeVersionCheck/forge]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2254",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.0.2259",
+    "1.11.2-recommended": "13.20.0.2228",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.1902",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest": "13.20.0.2259",
+    "latest-1.7.10": "10.13.2.1343",
+    "recommended": "13.20.0.2228"
+  }
+}
+[00:05:25] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Found status: UP_TO_DATE Target: null
+[00:05:25] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[00:05:25] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStoppedEvent to mod minecraft
+[00:05:25] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStoppedEvent to mod minecraft
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft took 0.000s
+[00:05:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[00:05:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[00:05:25] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[00:05:25] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[00:05:25] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStoppedEvent to mod forge
+[00:05:25] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStoppedEvent to mod forge
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
+[00:05:25] [Server thread/TRACE] [dynmap/dynmap]: Sending event FMLServerStoppedEvent to mod dynmap
+[00:05:25] [Server thread/TRACE] [dynmap/dynmap]: Sent event FMLServerStoppedEvent to mod dynmap
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Dynmap took 0.001s
+[00:05:25] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.003s
+[00:05:25] [Server thread/INFO] [FML/]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
