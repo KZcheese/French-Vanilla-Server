@@ -1,152 +1,162 @@
-[13:36:01] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[13:36:01] [main/INFO] [FML/]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
-[13:36:01] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
-[13:36:01] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.11.2-13.20.0.2228-universal.jar
-[13:36:01] [main/DEBUG] [FML/]: Java library path at launch is c:\programdata\oracle\java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;c:\programdata\oracle\java\javapath;c:\program files (x86)\razer chroma sdk\bin;c:\program files\razer chroma sdk\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files (x86)\skype\phone\;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files\microsoft sql server\130\tools\binn\;c:\program files (x86)\windows kits\8.1\windows performance toolkit\;c:\program files (x86)\gtksharp\2.12\bin;c:\program files\microsoft\web platform installer\;c:\program files\git\cmd;c:\program files (x86)\microsoft sql server\110\dts\binn\;c:\program files (x86)\microsoft sql server\120\dts\binn\;c:\program files (x86)\microsoft sql server\130\dts\binn\;c:\program files\microsoft dnx\dnvm\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Kevin Zhan\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;C:\Users\Kevin Zhan\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;.
-[13:36:01] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[13:36:01] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[13:36:01] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[13:36:01] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[13:36:01] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[13:36:01] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[13:36:01] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[13:36:01] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\.
-[13:36:01] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\libraries\net\minecraftforge\MercuriusUpdater\1.11\MercuriusUpdater-1.11.jar) to the mod list
-[13:36:01] [main/DEBUG] [FML/]: Discovering coremods
-[13:36:01] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.11.jar
-[13:36:01] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.11.jar
-[13:36:01] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:36:01] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:36:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:36:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:36:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:36:01] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
-[13:36:01] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[13:36:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[13:36:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[13:36:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[13:36:02] [main/DEBUG] [FML/]: Injection complete
-[13:36:02] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
-[13:36:02] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[13:36:02] [main/DEBUG] [FML/]: Read 948 binary patches
-[13:36:02] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.11.2.lzma with 33539 records
-[13:36:03] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[13:36:03] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[13:36:03] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:36:03] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[13:36:03] [main/DEBUG] [FML/]: Injection complete
-[13:36:03] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[13:36:03] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[13:36:03] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[13:36:03] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:36:03] [main/DEBUG] [FML/]: Loaded 190 rules from AccessTransformer config file forge_at.cfg
-[13:36:03] [main/DEBUG] [FML/]: Validating minecraft
-[13:36:03] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[13:36:03] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:36:03] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:36:03] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[13:36:08] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
-[13:36:08] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
-[13:36:09] [Server thread/INFO] [FML/]: MinecraftForge v13.20.0.2228 Initialized
-[13:36:09] [Server thread/INFO] [FML/]: Replaced 232 ore recipes
-[13:36:09] [Server thread/DEBUG] [FML/]: File C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\config\injectedDependencies.json not found. No dependencies injected
-[13:36:09] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[13:36:09] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[13:36:09] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\forge-1.11.2-13.20.0.2228-universal.jar, loading
-[13:36:09] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[13:36:09] [Server thread/INFO] [FML/]: Found 1 mods from the command line. Injecting into mod discoverer
-[13:36:09] [Server thread/INFO] [FML/]: Searching C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\mods for mods
-[13:36:09] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MercuriusUpdater-1.11.jar
-[13:36:09] [Server thread/DEBUG] [FML/]: Ignoring unknown file mod_list.json in mods directory
-[13:36:09] [Server thread/DEBUG] [FML/]: Examining file forge-1.11.2-13.20.0.2228-universal.jar for potential mods
-[13:36:09] [Server thread/DEBUG] [FML/]: The mod container forge-1.11.2-13.20.0.2228-universal.jar appears to be missing an mcmod.info file
-[13:36:10] [Server thread/DEBUG] [FML/]: Examining file MercuriusUpdater-1.11.jar for potential mods
-[13:36:10] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MercuriusUpdater-1.11.jar
-[13:36:10] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.minecraftforge.mercurius.updater.MercuriusUpdaterMod) - loading
-[13:36:10] [Server thread/TRACE] [mercurius_updater/]: Parsed dependency info : [] [] []
-[13:36:10] [Server thread/INFO] [mercurius_updater/]: Mod mercurius_updater is missing the required element 'name'. Substituting mercurius_updater
-[13:36:10] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
-[13:36:10] [Server thread/TRACE] [FML/]: Received a system property request ''
-[13:36:10] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[13:36:10] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[13:36:10] [Server thread/DEBUG] [mercurius_updater/]: Enabling mod mercurius_updater
-[13:36:10] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[13:36:10] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
-[13:36:10] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
-[13:36:10] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
-[13:36:10] [Server thread/DEBUG] [FML/]: Mod sorting data
-[13:36:10] [Server thread/DEBUG] [FML/]: 	mercurius_updater(mercurius_updater:1.0): MercuriusUpdater-1.11.jar ()
-[13:36:10] [Server thread/DEBUG] [FML/]: Loading @Config anotation data
-[13:36:10] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
-[13:36:10] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
-[13:36:10] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.002s
-[13:36:10] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[13:36:10] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[13:36:10] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
-[13:36:10] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[13:36:10] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[13:36:10] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[13:36:10] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
-[13:36:10] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mercurius_updater] at CLIENT
-[13:36:10] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mercurius_updater] at SERVER
-[13:36:11] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.487s
-[13:36:11] [Server thread/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
-[13:36:11] [Server thread/DEBUG] [forge/forge]: Preloading CrashReport Classes
-[13:36:11] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
-[13:36:11] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
-[13:36:11] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$3
-[13:36:11] [Server thread/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
-[13:36:11] [Server thread/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
-[13:36:11] [Server thread/TRACE] [FML/forge]: The mod forge accepts its own version (13.20.0.2228)
-[13:36:11] [Server thread/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
-[13:36:11] [Server thread/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.015s
-[13:36:11] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLConstructionEvent to mod mercurius_updater
-[13:36:11] [Server thread/TRACE] [FML/mercurius_updater]: Mod mercurius_updater is using network checker : No network checking performed
-[13:36:11] [Server thread/TRACE] [FML/mercurius_updater]: Testing mod mercurius_updater to verify it accepts its own version in a remote connection
-[13:36:11] [Server thread/TRACE] [FML/mercurius_updater]: The mod mercurius_updater accepts its own version (1.0)
-[13:36:11] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @SidedProxy classes into mercurius_updater
-[13:36:11] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @EventBusSubscriber classes into the eventbus for mercurius_updater
-[13:36:11] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @Config classes into mercurius_updater for type INSTANCE
-[13:36:11] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLConstructionEvent to mod mercurius_updater
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: Construction - mercurius_updater took 0.028s
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.534s
-[13:36:11] [Server thread/DEBUG] [FML/]: Mod signature data
-[13:36:11] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
-[13:36:11] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.11.2-13.20.0.2228-universal.jar
-[13:36:11] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	13.20.0.2228)	forge-1.11.2-13.20.0.2228-universal.jar
-[13:36:11] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
-[13:36:11] [Server thread/DEBUG] [FML/]: 		minecraft	(Minecraft	1.11.2)	minecraft.jar
-[13:36:11] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
-[13:36:11] [Server thread/DEBUG] [FML/]: 		mercurius_updater	(mercurius_updater	1.0)	MercuriusUpdater-1.11.jar
-[13:36:11] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
-[13:36:11] [Server thread/INFO] [FML/]: Found 444 ObjectHolder annotations
-[13:36:11] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[13:36:11] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[13:36:11] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:11] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:11] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:11] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:11] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:11] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:11] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
-[13:36:11] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.001s
-[13:36:11] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[13:36:11] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
-[13:36:11] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[13:36:11] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
-[13:36:11] [Server thread/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
-[13:36:11] [Server thread/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
-[13:36:11] [Server thread/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
-[13:36:11] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.125s
-[13:36:11] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLPreInitializationEvent to mod mercurius_updater
-[13:36:11] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]: Version Number exists, but out of date, Updating
-[13:36:11] [Forge Version Check/DEBUG] [ForgeVersionCheck/forge]: [forge] Received version check data:
+[13:36:54] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[13:36:55] [main/INFO] [FML/]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
+[13:36:55] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
+[13:36:55] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.11.2-13.20.0.2228-universal.jar
+[13:36:55] [main/DEBUG] [FML/]: Java library path at launch is c:\programdata\oracle\java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;c:\programdata\oracle\java\javapath;c:\program files (x86)\razer chroma sdk\bin;c:\program files\razer chroma sdk\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files (x86)\skype\phone\;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files\microsoft sql server\130\tools\binn\;c:\program files (x86)\windows kits\8.1\windows performance toolkit\;c:\program files (x86)\gtksharp\2.12\bin;c:\program files\microsoft\web platform installer\;c:\program files\git\cmd;c:\program files (x86)\microsoft sql server\110\dts\binn\;c:\program files (x86)\microsoft sql server\120\dts\binn\;c:\program files (x86)\microsoft sql server\130\dts\binn\;c:\program files\microsoft dnx\dnvm\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Kevin Zhan\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;C:\Users\Kevin Zhan\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;.
+[13:36:55] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[13:36:55] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[13:36:55] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[13:36:55] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[13:36:55] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[13:36:55] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[13:36:55] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[13:36:55] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\.
+[13:36:55] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\libraries\net\minecraftforge\MercuriusUpdater\1.11\MercuriusUpdater-1.11.jar) to the mod list
+[13:36:55] [main/DEBUG] [FML/]: Discovering coremods
+[13:36:55] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.11.jar
+[13:36:55] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.11.jar
+[13:36:55] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:36:55] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:36:55] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:36:55] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:36:55] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:36:55] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[13:36:55] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[13:36:55] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[13:36:55] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:36:55] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[13:36:55] [main/DEBUG] [FML/]: Injection complete
+[13:36:55] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[13:36:55] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[13:36:55] [main/DEBUG] [FML/]: Read 948 binary patches
+[13:36:56] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.11.2.lzma with 33539 records
+[13:36:56] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:36:56] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[13:36:56] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:36:56] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[13:36:56] [main/DEBUG] [FML/]: Injection complete
+[13:36:56] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[13:36:56] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[13:36:56] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[13:36:56] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:36:56] [main/DEBUG] [FML/]: Loaded 190 rules from AccessTransformer config file forge_at.cfg
+[13:36:56] [main/DEBUG] [FML/]: Validating minecraft
+[13:36:56] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[13:36:56] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:36:56] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:36:57] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:37:01] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[13:37:01] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[13:37:01] [Server thread/INFO] [FML/]: MinecraftForge v13.20.0.2228 Initialized
+[13:37:02] [Server thread/INFO] [FML/]: Replaced 232 ore recipes
+[13:37:02] [Server thread/DEBUG] [FML/]: File C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\config\injectedDependencies.json not found. No dependencies injected
+[13:37:02] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[13:37:02] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[13:37:02] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\forge-1.11.2-13.20.0.2228-universal.jar, loading
+[13:37:02] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[13:37:02] [Server thread/INFO] [FML/]: Found 1 mods from the command line. Injecting into mod discoverer
+[13:37:02] [Server thread/INFO] [FML/]: Searching C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\mods for mods
+[13:37:02] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MercuriusUpdater-1.11.jar
+[13:37:02] [Server thread/DEBUG] [FML/]: Ignoring unknown file mod_list.json in mods directory
+[13:37:02] [Server thread/DEBUG] [FML/]: Examining file forge-1.11.2-13.20.0.2228-universal.jar for potential mods
+[13:37:02] [Server thread/DEBUG] [FML/]: The mod container forge-1.11.2-13.20.0.2228-universal.jar appears to be missing an mcmod.info file
+[13:37:02] [Server thread/DEBUG] [FML/]: Examining file MercuriusUpdater-1.11.jar for potential mods
+[13:37:02] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MercuriusUpdater-1.11.jar
+[13:37:02] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.minecraftforge.mercurius.updater.MercuriusUpdaterMod) - loading
+[13:37:02] [Server thread/TRACE] [mercurius_updater/]: Parsed dependency info : [] [] []
+[13:37:02] [Server thread/INFO] [mercurius_updater/]: Mod mercurius_updater is missing the required element 'name'. Substituting mercurius_updater
+[13:37:02] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[13:37:02] [Server thread/TRACE] [FML/]: Received a system property request ''
+[13:37:02] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[13:37:02] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[13:37:02] [Server thread/DEBUG] [mercurius_updater/]: Enabling mod mercurius_updater
+[13:37:02] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[13:37:02] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[13:37:02] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[13:37:02] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[13:37:02] [Server thread/DEBUG] [FML/]: Mod sorting data
+[13:37:02] [Server thread/DEBUG] [FML/]: 	mercurius_updater(mercurius_updater:1.0): MercuriusUpdater-1.11.jar ()
+[13:37:02] [Server thread/DEBUG] [FML/]: Loading @Config anotation data
+[13:37:02] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[13:37:02] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[13:37:02] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.002s
+[13:37:02] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[13:37:02] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[13:37:02] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[13:37:02] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[13:37:03] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[13:37:03] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[13:37:03] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[13:37:03] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mercurius_updater] at CLIENT
+[13:37:03] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mercurius_updater] at SERVER
+[13:37:03] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.424s
+[13:37:03] [Server thread/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
+[13:37:03] [Server thread/DEBUG] [forge/forge]: Preloading CrashReport Classes
+[13:37:03] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[13:37:03] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[13:37:03] [Server thread/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$3
+[13:37:03] [Server thread/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
+[13:37:03] [Server thread/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
+[13:37:03] [Server thread/TRACE] [FML/forge]: The mod forge accepts its own version (13.20.0.2228)
+[13:37:03] [Server thread/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
+[13:37:03] [Server thread/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.016s
+[13:37:03] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLConstructionEvent to mod mercurius_updater
+[13:37:03] [Server thread/TRACE] [FML/mercurius_updater]: Mod mercurius_updater is using network checker : No network checking performed
+[13:37:03] [Server thread/TRACE] [FML/mercurius_updater]: Testing mod mercurius_updater to verify it accepts its own version in a remote connection
+[13:37:03] [Server thread/TRACE] [FML/mercurius_updater]: The mod mercurius_updater accepts its own version (1.0)
+[13:37:03] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @SidedProxy classes into mercurius_updater
+[13:37:03] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @EventBusSubscriber classes into the eventbus for mercurius_updater
+[13:37:03] [Server thread/DEBUG] [FML/mercurius_updater]: Attempting to inject @Config classes into mercurius_updater for type INSTANCE
+[13:37:03] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLConstructionEvent to mod mercurius_updater
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: Construction - mercurius_updater took 0.033s
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.475s
+[13:37:03] [Server thread/DEBUG] [FML/]: Mod signature data
+[13:37:03] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[13:37:03] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.11.2-13.20.0.2228-universal.jar
+[13:37:03] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	13.20.0.2228)	forge-1.11.2-13.20.0.2228-universal.jar
+[13:37:03] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[13:37:03] [Server thread/DEBUG] [FML/]: 		minecraft	(Minecraft	1.11.2)	minecraft.jar
+[13:37:03] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[13:37:03] [Server thread/DEBUG] [FML/]: 		mercurius_updater	(mercurius_updater	1.0)	MercuriusUpdater-1.11.jar
+[13:37:03] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[13:37:03] [Server thread/INFO] [FML/]: Found 444 ObjectHolder annotations
+[13:37:03] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[13:37:03] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[13:37:03] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:03] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:03] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:03] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:03] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:03] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:03] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[13:37:03] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.000s
+[13:37:03] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[13:37:03] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[13:37:03] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[13:37:03] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[13:37:03] [Server thread/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
+[13:37:03] [Server thread/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
+[13:37:03] [Server thread/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.135s
+[13:37:03] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLPreInitializationEvent to mod mercurius_updater
+[13:37:03] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:37:03] [Server thread/INFO] [mercurius/mercurius_updater]: Version Number exists, Using it: 1.11-1.0.1.16
+[13:37:03] [Server thread/INFO] [mercurius/mercurius_updater]: File exists, Checking hash: C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\.\libraries\net\minecraftforge\Mercurius\1.11-1.0.1.16\Mercurius-1.11-1.0.1.16.jar
+[13:37:03] [Server thread/INFO] [mercurius/mercurius_updater]:   Hash matches, Skipping download: cd896b464c0db300d448f38c1e4e7c39c39a7f21
+[13:37:03] [Server thread/INFO] [mercurius/mercurius_updater]: Mercurius Jar contains all signed files! Continueing loading!
+[13:37:03] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLPreInitializationEvent to mod mercurius_updater
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - mercurius_updater took 0.086s
+[13:37:03] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.222s
+[13:37:03] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:03] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:03] [Server thread/INFO] [FML/]: Injecting itemstacks
+[13:37:03] [Server thread/INFO] [FML/]: Itemstack injection complete
+[13:37:04] [Forge Version Check/DEBUG] [ForgeVersionCheck/forge]: [forge] Received version check data:
 {
   "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
   "promos": {
@@ -184,238 +194,224 @@
     "recommended": "13.20.0.2228"
   }
 }
-[13:36:11] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Found status: UP_TO_DATE Target: null
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]: Remote version up to date: 1.11-1.0.1.16
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]: File exists, Checking hash: C:\Users\Kevin Zhan\OneDrive\Documents\FrenchVanillaServer\.\libraries\net\minecraftforge\Mercurius\1.11-1.0.1.16\Mercurius-1.11-1.0.1.16.jar
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]:   Hash matches, However out of date, downloading checksum
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]:     Remote Checksum verified, not downloading: cd896b464c0db300d448f38c1e4e7c39c39a7f21
-[13:36:11] [Server thread/INFO] [mercurius/mercurius_updater]: Mercurius Jar contains all signed files! Continueing loading!
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLPreInitializationEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - mercurius_updater took 0.706s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.832s
-[13:36:12] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:12] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:12] [Server thread/INFO] [FML/]: Injecting itemstacks
-[13:36:12] [Server thread/INFO] [FML/]: Itemstack injection complete
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLInitializationEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLInitializationEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft took 0.001s
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.003s
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event FMLInitializationEvent to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event FMLInitializationEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLInitializationEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLInitializationEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - mercurius_updater took 0.029s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.035s
-[13:36:12] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event IMCEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event IMCEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft took 0.007s
-[13:36:12] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
-[13:36:12] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
-[13:36:12] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event IMCEvent to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event IMCEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
-[13:36:12] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event IMCEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event IMCEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - mercurius_updater took 0.001s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.009s
-[13:36:12] [Server thread/INFO] [FML/]: Injecting itemstacks
-[13:36:12] [Server thread/INFO] [FML/]: Itemstack injection complete
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLPostInitializationEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLPostInitializationEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft took 0.001s
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event FMLPostInitializationEvent to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event FMLPostInitializationEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.018s
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLPostInitializationEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLPostInitializationEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - mercurius_updater took 0.008s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.029s
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLLoadCompleteEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLLoadCompleteEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft took 0.001s
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.001s
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event FMLLoadCompleteEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/forge]: Forge RecipeSorter Baking:
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   16: RecipeEntry("Before", UNKNOWN, )
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[13:36:12] [Server thread/DEBUG] [FML/forge]:   1: RecipeEntry("After", UNKNOWN, )
-[13:36:12] [Server thread/DEBUG] [FML/forge]: Sorting recipes
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event FMLLoadCompleteEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.037s
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLLoadCompleteEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLLoadCompleteEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - mercurius_updater took 0.001s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.039s
-[13:36:12] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
-[13:36:12] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerAboutToStartEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerAboutToStartEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft took 0.001s
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event FMLServerAboutToStartEvent to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event FMLServerAboutToStartEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerAboutToStartEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerAboutToStartEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - mercurius_updater took 0.000s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
-[13:36:12] [Server thread/ERROR] [fml.ModTracker/]: This world was saved with mod dynmap which appears to be missing, things may not work well
-[13:36:12] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
-[13:36:12] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.001s
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[13:36:12] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[13:36:12] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
-[13:36:12] [Server thread/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.028s
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLModIdMappingEvent to mod mercurius_updater
-[13:36:12] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLModIdMappingEvent to mod mercurius_updater
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - mercurius_updater took 0.000s
-[13:36:12] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.030s
-[13:36:12] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:12] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:12] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
-[13:36:12] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[13:36:12] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[13:36:13] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@331c200d)
-[13:36:13] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@331c200d)
-[13:36:13] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@331c200d)
-[13:36:13] [Server thread/WARN] [FML/]: Found chunkloading data for mod dynmap which is currently not available or active - it will be removed from the world save
-[13:36:15] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStartingEvent to mod minecraft
-[13:36:15] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStartingEvent to mod minecraft
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft took 0.000s
-[13:36:15] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[13:36:15] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[13:36:15] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[13:36:15] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
-[13:36:15] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStartingEvent to mod forge
-[13:36:15] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStartingEvent to mod forge
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
-[13:36:15] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStartingEvent to mod mercurius_updater
-[13:36:15] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStartingEvent to mod mercurius_updater
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - mercurius_updater took 0.001s
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.004s
-[13:36:15] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStartedEvent to mod minecraft
-[13:36:15] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStartedEvent to mod minecraft
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft took 0.001s
-[13:36:15] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[13:36:15] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.001s
-[13:36:15] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[13:36:15] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
-[13:36:15] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStartedEvent to mod forge
-[13:36:15] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStartedEvent to mod forge
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
-[13:36:15] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStartedEvent to mod mercurius_updater
-[13:36:15] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStartedEvent to mod mercurius_updater
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - mercurius_updater took 0.000s
-[13:36:15] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.003s
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStoppingEvent to mod minecraft
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStoppingEvent to mod minecraft
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft took 0.001s
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStoppingEvent to mod forge
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStoppingEvent to mod forge
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.001s
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStoppingEvent to mod mercurius_updater
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStoppingEvent to mod mercurius_updater
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - mercurius_updater took 0.003s
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.006s
-[13:36:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[13:36:40] [Server thread/INFO] [FML/]: Unloading dimension 0
-[13:36:40] [Server thread/INFO] [FML/]: Unloading dimension -1
-[13:36:40] [Server thread/INFO] [FML/]: Unloading dimension 1
-[13:36:40] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.000s
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.021s
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLModIdMappingEvent to mod mercurius_updater
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLModIdMappingEvent to mod mercurius_updater
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - mercurius_updater took 0.000s
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.023s
-[13:36:40] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:36:40] [Server thread/INFO] [FML/]: Holder lookups applied
-[13:36:40] [Server thread/DEBUG] [FML/]: Frozen state restored.
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStoppedEvent to mod minecraft
-[13:36:40] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStoppedEvent to mod minecraft
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft took 0.000s
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[13:36:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[13:36:40] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStoppedEvent to mod forge
-[13:36:40] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStoppedEvent to mod forge
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStoppedEvent to mod mercurius_updater
-[13:36:40] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStoppedEvent to mod mercurius_updater
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - mercurius_updater took 0.000s
-[13:36:40] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s
+[13:37:04] [Forge Version Check/INFO] [ForgeVersionCheck/forge]: [forge] Found status: UP_TO_DATE Target: null
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLInitializationEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLInitializationEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft took 0.001s
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event FMLInitializationEvent to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event FMLInitializationEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.002s
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLInitializationEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLInitializationEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - mercurius_updater took 0.024s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.027s
+[13:37:04] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event IMCEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event IMCEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft took 0.006s
+[13:37:04] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[13:37:04] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[13:37:04] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event IMCEvent to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event IMCEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[13:37:04] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event IMCEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event IMCEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - mercurius_updater took 0.001s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.008s
+[13:37:04] [Server thread/INFO] [FML/]: Injecting itemstacks
+[13:37:04] [Server thread/INFO] [FML/]: Itemstack injection complete
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLPostInitializationEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLPostInitializationEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft took 0.000s
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event FMLPostInitializationEvent to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event FMLPostInitializationEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.011s
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLPostInitializationEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLPostInitializationEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - mercurius_updater took 0.005s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.017s
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLLoadCompleteEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLLoadCompleteEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft took 0.001s
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event FMLLoadCompleteEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/forge]: Forge RecipeSorter Baking:
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   16: RecipeEntry("Before", UNKNOWN, )
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[13:37:04] [Server thread/DEBUG] [FML/forge]:   1: RecipeEntry("After", UNKNOWN, )
+[13:37:04] [Server thread/DEBUG] [FML/forge]: Sorting recipes
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event FMLLoadCompleteEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.010s
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLLoadCompleteEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLLoadCompleteEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - mercurius_updater took 0.000s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.012s
+[13:37:04] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[13:37:04] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerAboutToStartEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerAboutToStartEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft took 0.000s
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event FMLServerAboutToStartEvent to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event FMLServerAboutToStartEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerAboutToStartEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerAboutToStartEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - mercurius_updater took 0.000s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
+[13:37:04] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
+[13:37:04] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.001s
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[13:37:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[13:37:04] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
+[13:37:04] [Server thread/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.021s
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLModIdMappingEvent to mod mercurius_updater
+[13:37:04] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLModIdMappingEvent to mod mercurius_updater
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - mercurius_updater took 0.000s
+[13:37:04] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.024s
+[13:37:04] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:04] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:04] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[13:37:04] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[13:37:04] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[13:37:04] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@54f0c931)
+[13:37:04] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@54f0c931)
+[13:37:04] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@54f0c931)
+[13:37:06] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStartingEvent to mod minecraft
+[13:37:06] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStartingEvent to mod minecraft
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft took 0.001s
+[13:37:06] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[13:37:06] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[13:37:06] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[13:37:06] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[13:37:06] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStartingEvent to mod forge
+[13:37:06] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStartingEvent to mod forge
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[13:37:06] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStartingEvent to mod mercurius_updater
+[13:37:06] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStartingEvent to mod mercurius_updater
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - mercurius_updater took 0.001s
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.005s
+[13:37:06] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStartedEvent to mod minecraft
+[13:37:06] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStartedEvent to mod minecraft
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft took 0.000s
+[13:37:06] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[13:37:06] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[13:37:06] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[13:37:06] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[13:37:06] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStartedEvent to mod forge
+[13:37:06] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStartedEvent to mod forge
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[13:37:06] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStartedEvent to mod mercurius_updater
+[13:37:06] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStartedEvent to mod mercurius_updater
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - mercurius_updater took 0.000s
+[13:37:06] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.002s
+[13:37:13] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStoppingEvent to mod minecraft
+[13:37:13] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStoppingEvent to mod minecraft
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft took 0.000s
+[13:37:13] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[13:37:13] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[13:37:13] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[13:37:13] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[13:37:13] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStoppingEvent to mod forge
+[13:37:13] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStoppingEvent to mod forge
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[13:37:13] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStoppingEvent to mod mercurius_updater
+[13:37:13] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStoppingEvent to mod mercurius_updater
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - mercurius_updater took 0.001s
+[13:37:13] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[13:37:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[13:37:13] [Server thread/INFO] [FML/]: Unloading dimension 0
+[13:37:13] [Server thread/INFO] [FML/]: Unloading dimension -1
+[13:37:13] [Server thread/INFO] [FML/]: Unloading dimension 1
+[13:37:14] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[13:37:14] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
+[13:37:14] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.000s
+[13:37:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[13:37:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[13:37:14] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[13:37:14] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[13:37:14] [Server thread/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
+[13:37:14] [Server thread/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.025s
+[13:37:14] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLModIdMappingEvent to mod mercurius_updater
+[13:37:14] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLModIdMappingEvent to mod mercurius_updater
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - mercurius_updater took 0.000s
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.026s
+[13:37:14] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:37:14] [Server thread/INFO] [FML/]: Holder lookups applied
+[13:37:14] [Server thread/DEBUG] [FML/]: Frozen state restored.
+[13:37:14] [Server thread/TRACE] [minecraft/minecraft]: Sending event FMLServerStoppedEvent to mod minecraft
+[13:37:14] [Server thread/TRACE] [minecraft/minecraft]: Sent event FMLServerStoppedEvent to mod minecraft
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft took 0.000s
+[13:37:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[13:37:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[13:37:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[13:37:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[13:37:14] [Server thread/TRACE] [forge/forge]: Sending event FMLServerStoppedEvent to mod forge
+[13:37:14] [Server thread/TRACE] [forge/forge]: Sent event FMLServerStoppedEvent to mod forge
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[13:37:14] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sending event FMLServerStoppedEvent to mod mercurius_updater
+[13:37:14] [Server thread/TRACE] [mercurius_updater/mercurius_updater]: Sent event FMLServerStoppedEvent to mod mercurius_updater
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - mercurius_updater took 0.000s
+[13:37:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
