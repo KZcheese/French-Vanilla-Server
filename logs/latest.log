@@ -1,25 +1,12 @@
-[16:30:16] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[16:30:19] [Server thread/INFO]: Loading properties
-[16:30:19] [Server thread/INFO]: Default game type: SURVIVAL
-[16:30:20] [Server thread/INFO]: Generating keypair
-[16:30:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:30:20] [Server thread/INFO]: Using default channel type
-[16:30:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:30:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:30:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:30:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:30:20] [Server thread/INFO]: Preparing level "world"
-[16:30:21] [Server thread/INFO]: Preparing start region for level 0
-[16:30:22] [Server thread/INFO]: Preparing spawn area: 15%
-[16:30:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 09ddfd75-ecc1-453b-80e5-c01dd3f0bd62
-[16:30:23] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID d639cfa7-641f-4170-955c-581ee2ce571c
-[16:30:23] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9080434e-e018-4457-a760-6b5bf08f4d14
-[16:30:23] [Server thread/INFO]: Done (3.250s)! For help, type "help" or "?"
-[16:30:38] [Server thread/INFO]: Stopping the server
-[16:30:38] [Server thread/INFO]: Stopping server
-[16:30:38] [Server thread/INFO]: Saving players
-[16:30:38] [Server thread/INFO]: Saving worlds
-[16:30:38] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:30:38] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[16:30:38] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[16:30:39] [Server Shutdown Thread/INFO]: Stopping server
+[16:34:14] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[16:34:15] [Server thread/INFO]: Loading properties
+[16:34:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:34:15] [Server thread/INFO]: Generating keypair
+[16:34:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:34:15] [Server thread/INFO]: Using default channel type
+[16:34:15] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[16:34:15] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[16:34:15] [Server thread/WARN]: Perhaps a server is already running on that port?
+[16:34:15] [Server thread/INFO]: Stopping server
+[16:34:15] [Server thread/INFO]: Saving worlds
+[16:34:15] [Server Shutdown Thread/INFO]: Stopping server
